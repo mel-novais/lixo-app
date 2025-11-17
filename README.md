@@ -1,50 +1,56 @@
-# Welcome to your Expo app 👋
+# 📝 Projeto de Extensão — Nome do Projeto
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este repositório contém o trabalho desenvolvido para a disciplina de **Extensão Universitária**, com foco em integrar o conhecimento acadêmico às necessidades reais da comunidade. O projeto busca aplicar conceitos aprendidos ao longo do curso, propondo soluções práticas e promovendo impacto social.
 
-## Get started
+---
 
-1. Install dependencies
+## 🎯 Objetivos
 
-   ```bash
-   npm install
-   ```
+### **Objetivo Geral**
+Desenvolver uma ação ou solução prática que responda a uma demanda identificada na comunidade, fortalecendo o vínculo entre universidade e sociedade.
 
-2. Start the app
+### **Objetivos Específicos**
+- Identificar necessidades da comunidade ou parceiro.
+- Planejar ações de impacto social.
+- Aplicar conhecimentos acadêmicos na prática.
+- Avaliar resultados e impactos gerados.
+- Registrar o processo e os produtos desenvolvidos.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🧩 Justificativa
+O projeto visa reforçar o papel social da universidade, proporcionando aos estudantes experiências reais e significativas, ao mesmo tempo em que atende demandas da comunidade, contribuindo para melhorias locais.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🔧 Metodologia
+O desenvolvimento do projeto seguiu as seguintes etapas:
 
-## Get a fresh project
+1. **Diagnóstico** – Identificação da necessidade.
+2. **Planejamento** – Organização e definição das ações.
+3. **Execução** – Realização das atividades planejadas.
+4. **Monitoramento** – Acompanhamento e ajustes durante o processo.
+5. **Avaliação** – Análise dos resultados obtidos.
+6. **Documentação** – Registro final e apresentação.
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## 📌 Resultados Esperados
+- Beneficiar diretamente o público-alvo.
+- Produzir materiais, ações ou soluções úteis.
+- Desenvolver habilidades profissionais e sociais.
+- Criar impacto observável na comunidade.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🎯 Público-Alvo
+- Comunidade local  
+- Instituição parceira  
+- Estudantes ou profissionais envolvidos  
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 📂 Estrutura do Repositório
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
